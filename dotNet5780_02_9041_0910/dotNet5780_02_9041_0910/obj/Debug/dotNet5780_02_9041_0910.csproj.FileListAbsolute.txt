@@ -1,0 +1,14 @@
+C:\Users\boxenhor\Desktop\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\bin\Debug\dotNet5780_02_9041_0910.exe.config
+C:\Users\boxenhor\Desktop\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\bin\Debug\dotNet5780_02_9041_0910.exe
+C:\Users\boxenhor\Desktop\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\bin\Debug\dotNet5780_02_9041_0910.pdb
+C:\Users\boxenhor\Desktop\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\obj\Debug\dotNet5780_02_9041_0910.csprojAssemblyReference.cache
+C:\Users\boxenhor\Desktop\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\obj\Debug\dotNet5780_02_9041_0910.csproj.CoreCompileInputs.cache
+C:\Users\boxenhor\Desktop\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\obj\Debug\dotNet5780_02_9041_0910.exe
+C:\Users\boxenhor\Desktop\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\obj\Debug\dotNet5780_02_9041_0910.pdb
+Z:\מיניפ\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\obj\Debug\dotNet5780_02_9041_0910.csprojAssemblyReference.cache
+Z:\מיניפ\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\obj\Debug\dotNet5780_02_9041_0910.csproj.CoreCompileInputs.cache
+Z:\מיניפ\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\obj\Debug\dotNet5780_02_9041_0910.exe
+Z:\מיניפ\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\obj\Debug\dotNet5780_02_9041_0910.pdb
+Z:\מיניפ\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\bin\Debug\dotNet5780_02_9041_0910.exe.config
+Z:\מיניפ\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\bin\Debug\dotNet5780_02_9041_0910.exe
+Z:\מיניפ\dotNet5780_02_9041_0910\dotNet5780_02_9041_0910\bin\Debug\dotNet5780_02_9041_0910.pdb
